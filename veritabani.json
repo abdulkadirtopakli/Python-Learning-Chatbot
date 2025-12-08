@@ -1,8 +1,11 @@
 {
+  
   "sorular": [
-    {
-      "soru": "bir kıza nasıl mesaj atabilirim",
-      "cevap": "selam ya da nasılsın gibi sade bir mesaj hoşuna gidebilir"
-    }
+    { "soru": "merhaba", "cevap": "Merhaba! Sana nasıl yardımcı olabilirim?" },
+    { "soru": "nasılsın", "cevap": "İyiyim, teşekkür ederim! Sen nasılsın?" },
+    { "soru": "python nedir", "cevap": "Python, yüksek seviyeli, kolay öğrenilen bir programlama dilidir." },
+    { "soru": "yapay zeka nedir", "cevap": "Yapay zeka, makinelerin insan benzeri düşünme ve öğrenme yeteneklerine sahip olmasıdır." },
+    { "soru": "bilgisayar nedir", "cevap": "Bilgisayar, veri işleme kapasitesine sahip elektronik bir cihazdır." },
+    { "soru": "elektrik nedir", "cevap": "Elektrik, elektronların hareketinden elde edilen enerji türüdür." }
   ]
 }
